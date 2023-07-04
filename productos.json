@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Nuevo nombre",
+    "description": "Cálzate la adidas Copa 20.3 y deslumbra sobre terrenos de césped natural seco.",
+    "price": 20000,
+    "thumbnail": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/3df66ac4860b4c36892cab3000fc2cb5_9366/Botines_de_futbol_Copa_20.3_cesped_natural_seco_Blanco_EF1913_01_standard.jpg",
+    "code": "C001",
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "title": "Botines de futbol COPA 20.3",
+    "description": "Cálzate la adidas Copa 20.3 y deslumbra sobre terrenos de césped natural seco.",
+    "price": 15000,
+    "thumbnail": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/3df66ac4860b4c36892cab3000fc2cb5_9366/Botines_de_futbol_Copa_20.3_cesped_natural_seco_Blanco_EF1913_01_standard.jpg",
+    "code": "C001",
+    "stock": 10,
+    "id": 2
+  },
+  {
+    "title": "Nike Zoom Mercurial Superfly 9 Academy MG",
+    "description": "Cuenta con una unidad Zoom Air y con una NikeSkin flexible en la parte superior para brindar un toque excepcional, de modo que puedas dominar en los últimos y más importantes minutos de un partido.",
+    "price": 49900,
+    "thumbnail": "https://nikearprod.vtexassets.com/arquivos/ids/452821/DJ5625_001_A_PREM.jpg?v=638149287879500000",
+    "code": "GW1022",
+    "stock": 15,
+    "id": 3
+  },
+  {
+    "title": "Nike Zoom Mercurial Superfly 9 Academy MG",
+    "description": "Cuenta con una unidad Zoom Air y con una NikeSkin flexible en la parte superior para brindar un toque excepcional, de modo que puedas dominar en los últimos y más importantes minutos de un partido.",
+    "price": 49900,
+    "thumbnail": "https://nikearprod.vtexassets.com/arquivos/ids/452821/DJ5625_001_A_PREM.jpg?v=638149287879500000",
+    "code": "GW1022",
+    "stock": 15,
+    "id": 4
+  },
+  {
+    "title": "Nike Zoom Mercurial Superfly 9 Academy MG",
+    "description": "Cuenta con una unidad Zoom Air y con una NikeSkin flexible en la parte superior para brindar un toque excepcional, de modo que puedas dominar en los últimos y más importantes minutos de un partido.",
+    "price": 49900,
+    "thumbnail": "https://nikearprod.vtexassets.com/arquivos/ids/452821/DJ5625_001_A_PREM.jpg?v=638149287879500000",
+    "code": "GW1022",
+    "stock": 15,
+    "id": 6
+  },
+  {
+    "title": "Nike Zoom Mercurial Superfly 9 Academy MG",
+    "description": "Cuenta con una unidad Zoom Air y con una NikeSkin flexible en la parte superior para brindar un toque excepcional, de modo que puedas dominar en los últimos y más importantes minutos de un partido.",
+    "price": 49900,
+    "thumbnail": "https://nikearprod.vtexassets.com/arquivos/ids/452821/DJ5625_001_A_PREM.jpg?v=638149287879500000",
+    "code": "GW1022",
+    "stock": 15,
+    "id": 7
+  },
+  {
+    "title": "Nike Zoom Mercurial Superfly 9 Academy MG",
+    "description": "Cuenta con una unidad Zoom Air y con una NikeSkin flexible en la parte superior para brindar un toque excepcional, de modo que puedas dominar en los últimos y más importantes minutos de un partido.",
+    "price": 49900,
+    "thumbnail": "https://nikearprod.vtexassets.com/arquivos/ids/452821/DJ5625_001_A_PREM.jpg?v=638149287879500000",
+    "code": "GW1022",
+    "stock": 15,
+    "id": 8
+  },
+  {
+    "title": "Nike Zoom Mercurial Superfly 9 Academy MG",
+    "description": "Cuenta con una unidad Zoom Air y con una NikeSkin flexible en la parte superior para brindar un toque excepcional, de modo que puedas dominar en los últimos y más importantes minutos de un partido.",
+    "price": 49900,
+    "thumbnail": "https://nikearprod.vtexassets.com/arquivos/ids/452821/DJ5625_001_A_PREM.jpg?v=638149287879500000",
+    "code": "GW1022",
+    "stock": 15,
+    "id": 9
+  },
+  {
+    "title": "Nike Zoom Mercurial Superfly 9 Academy MG",
+    "description": "Cuenta con una unidad Zoom Air y con una NikeSkin flexible en la parte superior para brindar un toque excepcional, de modo que puedas dominar en los últimos y más importantes minutos de un partido.",
+    "price": 49900,
+    "thumbnail": "https://nikearprod.vtexassets.com/arquivos/ids/452821/DJ5625_001_A_PREM.jpg?v=638149287879500000",
+    "code": "GW1022",
+    "stock": 15,
+    "id": 10
+  }
+ 
+]
